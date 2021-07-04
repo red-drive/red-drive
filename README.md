@@ -9,4 +9,4 @@ Living in 🇮🇳 , Raised in Kerala & Born in TamilNadu.
 
 ## Currently Working On
 - V.I.R.U.S - (Private) A Specialised Personal Assistant for me(Inspiration from Jarvis),
-- Developing My Skills - (Public) I have developing my skills and building apps.
+- [Developing My Skills](https://github.com/red-drive/Learning/blob/master/Readme.md) - (Public) I have developing my skills and building apps.
